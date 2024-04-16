@@ -1,4 +1,4 @@
-package main.java.com.ohgiraffers.section2.package_and_import;
+package main.java.com.ohgiraffers.section02.package_and_import;
 
 import static main.java.com.ohgiraffers.section01.method.Calculator.maxNumber;
 //static 에 올라가있는 이 경로에 있는 maxNumber 함수를 불러와야 한다.
