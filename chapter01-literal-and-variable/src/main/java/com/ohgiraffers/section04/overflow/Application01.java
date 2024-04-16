@@ -10,11 +10,15 @@ public class Application01 {
         *
         * */
 
-
         int firstNum = 1000000;
         int secondNum = 700000;
         int multi = firstNum * secondNum;
         System.out.println("firstNum * secondNum = " + multi);
+
+
+
+
+
 
 
 
